@@ -1,0 +1,46 @@
+.card-body i{
+  font-size: 40px; 
+  
+}
+
+.card-body{
+  color:white 
+}
+
+h6 i {
+  font-size: 18px;  
+  color: #56AACF
+}
+
+#incidudant span {
+  padding: 18px 15px;
+  background-color: #56AACF;
+  color: white;
+  font-size: 20px;
+  display: block;
+  text-align: center;
+
+}
+
+#incidudant  p {
+  line-height: 1.2;
+}
+#navbarText{
+  margin-left: 100px;
+}
+
+#helping h5{
+  font-size: 40px;
+  color: #56AACF;
+  margin-bottom:100px;
+  margin-top: 50px;
+}
+
+#help-center {
+  padding: 5px 10px;
+  background-color: #56AACF;
+}
+.fa-user{
+  margin-top: 3px;
+  font-size: 40px;
+}
